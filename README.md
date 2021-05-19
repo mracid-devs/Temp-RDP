@@ -1,4 +1,4 @@
-# Windows2019RDP-US
+# Windows RDP 2019
 Windows Server 2019 Github with RDP Access (ngrok US) 
 Repo link: https://github.com/mracid-devs/Temp-RDP
 
@@ -14,5 +14,4 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 + Reload the page and press CI> build
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
-*IF MY REPO GOT DELETED,ON YOUR GITHUB GO TO .github/workflows > RDP-US.yml AND EDIT NEW LINK TO YOUR REPO. ALL .BAT in Files FOLDER* 
- RDP-US.yml AND EDIT NEW LINK TO YOUR REPO. ALL .BAT in Files FOLDER* 
+
